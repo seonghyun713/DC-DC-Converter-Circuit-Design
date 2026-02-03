@@ -1,0 +1,21 @@
+# PSpice Simulation Data (Huge files!)
+*.dat
+*.sim
+*.out
+*.txt
+*.chd
+*.probe
+*.log
+
+# Generated Output Folders
+*_output/
+*-PSpiceFiles/
+
+# Backup & Temporary files
+*.DBK
+*.DSNlck
+*.bkp
+*.autosave
+
+# OS Junk
+Thumbs.db

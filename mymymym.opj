@@ -1,0 +1,122 @@
+(ExpressProject "mymymym"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[10/31/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\cadence\hp8kf7h\hp8kf7h_spice.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\rb088t150nz\rb088t150nz.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\rb088t150hz\rb088t150hz.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\rb088rsm15stf_spice\rb088rsm15stf_spice.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\rb088ns150fh\rb088ns150fh.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\rb088bge150\rb088bge150.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\rb048rsm15stf_spice\rb048rsm15stf_spice.olb"
+        (Type "Schematic Library")))
+    (Allegro Netlist Directory "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "61215")
+    (NoModify)
+    (File ".\mymymym.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (Sort User)
+    (File ".\MYMYMYM_OUTPUT\BOM.SCH.CSV"
+      (Type "Report")
+      (DisplayName ".\MYMYMYM_OUTPUT\BOM.SCH.CSV"))
+    (File ".\mymymym-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\mymymym-pspicefiles\schematic1\simulation_1.sim"
+        (DisplayName "SCHEMATIC1-simulation_1")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\mymymym-pspicefiles\schematic1\simulation1_01.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\mymymym-pspicefiles\schematic1\simulation1_01.sim"
+        (DisplayName "SCHEMATIC1-simulation1_01")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "npgy2")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\USERS\NPGY2\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\MYMYMYM\mymymym.dsn")
+      (Path "Design Resources"
+         "C:\USERS\NPGY2\APPDATA\ROAMING\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\MYMYMYM\mymymym.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "c:\cadence\hp8kf7h\hp8kf7h_spice.olb")
+      (Path "Design Resources" "Library"
+         "c:\cadence\rb088t150nz\rb088t150nz.olb")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 1185 0 557"))
+      (Tab 0)))
+  (PartMRUSelector
+    (DRB088NS150FH
+      (FullPartName "DRB088NS150FH.Normal")
+      (LibraryName "C:\CADENCE\RB088NS150FH\RB088NS150FH.OLB")
+      (DeviceIndex "0"))
+    (SPET_21015
+      (FullPartName "SPET_21015.Normal")
+      (LibraryName "C:\CADENCE\SPET21015\SPET21015.OLB")
+      (DeviceIndex "0"))
+    (FDMS86250_3P
+      (FullPartName "FDMS86250_3P.Normal")
+      (LibraryName "C:\CADENCE\FDMS86250\FDMS86250\FDMS86250.OLB")
+      (DeviceIndex "0"))
+    (DRB088BGE150
+      (FullPartName "DRB088BGE150.Normal")
+      (LibraryName "C:\CADENCE\RB088BGE150\RB088BGE150.OLB")
+      (DeviceIndex "0"))
+    (DRB088RSM15STF
+      (FullPartName "DRB088RSM15STF.Normal")
+      (LibraryName "C:\CADENCE\RB088RSM15STF_SPICE\RB088RSM15STF_SPICE.OLB")
+      (DeviceIndex "0"))
+    (DRB048RSM15STF
+      (FullPartName "DRB048RSM15STF.Normal")
+      (LibraryName "C:\CADENCE\RB048RSM15STF_SPICE\RB048RSM15STF_SPICE.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (DRB088T150NZ
+      (FullPartName "DRB088T150NZ.Normal")
+      (LibraryName "C:\CADENCE\RB088T150NZ\RB088T150NZ.OLB")
+      (DeviceIndex "0"))
+    (HP8KF7H
+      (FullPartName "HP8KF7H.Normal")
+      (LibraryName "C:\CADENCE\HP8KF7H\HP8KF7H_SPICE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\spet21015"))
