@@ -1,4 +1,4 @@
-<img width="862" height="437" alt="PE_mid" src="https://github.com/user-attachments/assets/9a4bcc05-f504-46f9-a332-d5447d946d62" /># High-Efficiency Automotive DC-DC Converter Design & Control
+# High-Efficiency Automotive DC-DC Converter Design & Control
 > **From Component Selection to Particle Swarm Optimization (PSO) Control**
 
 ### 1. Project Overview
