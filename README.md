@@ -19,7 +19,6 @@ For detailed analysis, design equations, and full results, please refer to the p
 * **Final Project (Closed-Loop Control):**
   [📄 **View Final Presentation (PDF)**](./2_DC_DC_Converter_Final_Project/전력전자_번개팀_연구모듈2_발표자료.pdf)
 
-*(Note: Please ensure the filenames match exactly, including extension .pdf)*
 
 ---
 
@@ -45,7 +44,7 @@ Implemented closed-loop control to regulate output voltage against input voltage
 
 <img width="848" height="445" alt="PE_final" src="https://github.com/user-attachments/assets/6e480489-3905-4ce5-a96b-7b959f79c4a9" />
 
-> **Figure 2.** Control Loop Design & Optimization Results.
+> **Figure 2.** Psim Control Loop Design & Optimization Results.
 
 #### 🅰️ Classical Control (Type 3 Compensator)
 * Designed a **Type 3 Compensator** to boost phase margin and ensure stability.
