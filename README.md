@@ -5,7 +5,7 @@
 This project involves the full-cycle design of a DC-DC converter for automotive applications. It covers analog circuit design achieving **97% efficiency** through rigorous component selection and worst-case analysis, followed by the implementation of feedback controllers using both **Type 3 Compensation** and **Particle Swarm Optimization (PSO)** for optimal gain tuning.
 
 * **Course:** Power Electronics (2025-2)
-* **Tools:** Cadence PSpice, Matlab/Simulink (for PSO algorithm)
+* **Tools:** Cadence PSpice, Psim, Matlab/Simulink (for PSO algorithm)
 * **Key Achievement:** Achieved **97% Efficiency** in simulation & Verified Robustness (Worst-Case Analysis).
 
 ---
